@@ -1,0 +1,18 @@
+names:
+- Cone
+- bicycle
+- car
+- cone
+- isolation-pile
+- plant
+- road-cone
+nc: 7
+roboflow:
+  license: CC BY 4.0
+  project: traffic-cones-y4m5x-7x7d8
+  url: https://universe.roboflow.com/fatimas-workspace/traffic-cones-y4m5x-7x7d8/dataset/1
+  version: 1
+  workspace: fatimas-workspace
+test: ../test/images
+train: ../train/images
+val: ../valid/images
