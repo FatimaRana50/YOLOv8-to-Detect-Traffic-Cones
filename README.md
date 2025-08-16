@@ -36,15 +36,15 @@ Training Curves: loss, precision, recall, mAP.
 Results: show performance improvements over time.
 
 
-![Results Plot](images/y-1.PNG)
+![Results Plot](images/y-1.png)
 
 Confusion Matrix: evaluates model prediction vs ground truth.
 
-![Confusion Matrix](images/y-3.PNG)
+![Confusion Matrix](images/y-3.png)
 
 Sample Inference (Detected Traffic Cone)
 
-![Traffic Cone Detection](images/y-2.PNG)
+![Traffic Cone Detection](images/y-2.png)
 
 
 🎯 Why Transfer Learning?
